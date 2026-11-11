@@ -28,22 +28,22 @@
       "#953247"
     ],
     "CHANNELS_DEFAULT": [
-      "#FFFFFF"
+      "#BE6685"
     ],
     "CHANNEL_ICON": [
-      "#FFFFFF"
+      "#BE6685"
     ],
     "HEADER_SECONDARY": [
-      "#FFFFFF"
+      "#BE6685"
     ],
     "INTERACTIVE_MUTED": [
-      "#FFFFFF"
+      "#BE6685"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-      "#FFFFFF"
+      "#BE6685"
     ],
     "TEXT_MUTED": [
-      "#FFFFFF"
+      "#BE6685"
     ],
     "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
       "#BE6685"
@@ -148,28 +148,28 @@
       "#9D394F"
     ],
     "HEADER_PRIMARY": [
-      "#C56588"
+      "#FFFFFF"
     ],
     "INTERACTIVE_NORMAL": [
-      "#C56588"
+      "#FFFFFF"
     ],
     "INTERACTIVE_TEXT_DEFAULT": [
-      "#C56588"
+      "#FFFFFF"
     ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
-      "#C56588"
+      "#FFFFFF"
     ],
     "TEXT_DEFAULT": [
-      "#C56588"
+      "#FFFFFF"
     ],
     "TEXT_NORMAL": [
-      "#C56588"
+      "#FFFFFF"
     ],
     "TEXT_PRIMARY": [
-      "#C56588"
+      "#FFFFFF"
     ],
     "TEXT_STRONG": [
-      "#C56588"
+      "#FFFFFF"
     ],
     "ANDROID_RIPPLE": [
       "#5b2a82"
@@ -259,13 +259,13 @@
     "PRIMARY_530": "#BE6685",
     "BRAND_560": "#953247",
     "PRIMARY_400": "#953247",
-    "PLUM_9": "#FFFFFF",
-    "PLUM_10": "#FFFFFF",
-    "PLUM_11": "#FFFFFF",
-    "PLUM_13": "#FFFFFF",
-    "PRIMARY_730": "#FFFFFF",
-    "ROLE_DEFAULT": "#FFFFFF",
-    "WHITE_630": "#FFFFFF",
+    "PLUM_9": "#BE6685",
+    "PLUM_10": "#BE6685",
+    "PLUM_11": "#BE6685",
+    "PLUM_13": "#BE6685",
+    "PRIMARY_730": "#BE6685",
+    "ROLE_DEFAULT": "#BE6685",
+    "WHITE_630": "#BE6685",
     "PLUM_17": "#BE6685",
     "PLUM_20": "#BE6685",
     "PLUM_24": "#BE6685",
@@ -284,15 +284,15 @@
     "PRIMARY_DARK_600": "#9D394F",
     "PRIMARY_DARK_630": "#9D394F",
     "PRIMARY_DARK_660": "#9D394F",
-    "BRAND_730": "#C56588",
-    "PLUM_1": "#C56588",
-    "PLUM_4": "#C56588",
-    "PLUM_6": "#C56588",
-    "PRIMARY_100": "#C56588",
-    "PRIMARY_200": "#C56588",
-    "PRIMARY_330": "#C56588",
-    "PRIMARY_DARK_200": "#C56588",
-    "WHITE_500": "#C56588",
+    "BRAND_730": "#FFFFFF",
+    "PLUM_1": "#FFFFFF",
+    "PLUM_4": "#FFFFFF",
+    "PLUM_6": "#FFFFFF",
+    "PRIMARY_100": "#FFFFFF",
+    "PRIMARY_200": "#FFFFFF",
+    "PRIMARY_330": "#FFFFFF",
+    "PRIMARY_DARK_200": "#FFFFFF",
+    "WHITE_500": "#FFFFFF",
     "BLACK_500": "#000000b2",
     "PLUM_18": "#101012",
     "PRIMARY_645": "#101012",
@@ -310,6 +310,11 @@
   "spec": 2,
   "background": {
     "url": "https://i.imgur.com/8NsfLYJ.png",
+    "alpha": 1,
+    "size": "cover",
+    "position": "center"
+  }
+}
     "alpha": 1,
     "size": "cover",
     "position": "center"
