@@ -28,22 +28,22 @@
       "#953247"
     ],
     "CHANNELS_DEFAULT": [
-      "#BE6685"
+      "#FFFFFF"
     ],
     "CHANNEL_ICON": [
-      "#BE6685"
+      "#FFFFFF"
     ],
     "HEADER_SECONDARY": [
-      "#BE6685"
+      "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
-      "#BE6685"
+      "#FFFFFF"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-      "#BE6685"
+      "#FFFFFF"
     ],
     "TEXT_MUTED": [
-      "#BE6685"
+      "#FFFFFF"
     ],
     "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
       "#BE6685"
@@ -259,13 +259,13 @@
     "PRIMARY_530": "#BE6685",
     "BRAND_560": "#953247",
     "PRIMARY_400": "#953247",
-    "PLUM_9": "#BE6685",
-    "PLUM_10": "#BE6685",
-    "PLUM_11": "#BE6685",
-    "PLUM_13": "#BE6685",
-    "PRIMARY_730": "#BE6685",
-    "ROLE_DEFAULT": "#BE6685",
-    "WHITE_630": "#BE6685",
+    "PLUM_9": "#FFFFFF",
+    "PLUM_10": "#FFFFFF",
+    "PLUM_11": "#FFFFFF",
+    "PLUM_13": "#FFFFFF",
+    "PRIMARY_730": "#FFFFFF",
+    "ROLE_DEFAULT": "#FFFFFF",
+    "WHITE_630": "#FFFFFF",
     "PLUM_17": "#BE6685",
     "PLUM_20": "#BE6685",
     "PLUM_24": "#BE6685",
@@ -310,11 +310,6 @@
   "spec": 2,
   "background": {
     "url": "https://i.imgur.com/8NsfLYJ.png",
-    "alpha": 1,
-    "size": "cover",
-    "position": "center"
-  }
-}
     "alpha": 1,
     "size": "cover",
     "position": "center"
